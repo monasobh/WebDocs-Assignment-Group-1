@@ -4,7 +4,7 @@ The webdevolpers for this assignment are:
 - Mona Sobhani (Github: monasobh)
 
 **Business description:**
-a.
+a.\
 The name of the business is: Salsa Swings Dance Studio
 
 b.

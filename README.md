@@ -10,20 +10,38 @@ The name of the business is: Salsa Swings Dance Studio
 b.
 Location of business (headquarters):
 Salsa Swings Dance Studio GmbH
+
+
 Karl-Marx-Straße 69,
+
+
 1010 Vienna, Austria
 
 c.
 Contact information:
+
+
 E-Mail: info@salsa-swings.at
+
+
 Phone number: +41 148 2830 1191
+
+
 Facebook: fb.com/salsa_swings_dance_studio
+
+
 Instragram: instagram.com/salsa_swings_dance_studio
+
+
 TikTok: tiktok.com/@salsa_swings_dance_studio
+
+
 Youtube: youtube.com/c/salsa_swings_dance_studio
 
 d.
 Description for "About" page (our mission):
+
+
 Our goal is to pass on the knowledge we have gained over the last ten years in the dance field and as dance teachers to the next generation and thus contribute to a strong dance culture in Vienna. We not only teach movements, but also focus on togetherness. In addition to training dance knowledge, coordination, tact, motor skills and fitness, we focus on social values such as a sense of community and building self-confidence. We want to offer our members a place where they feel comfortable, grow dance-wise, make friends and simply have fun.
 
 e.

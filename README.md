@@ -3,7 +3,7 @@ The webdevolpers for this assignment are:
 - Andreas Bausch (Github name: bauscha)
 - Mona Sobhani (Github: monasobh)
 
-**Business description:**
+**Business description:**\
 a.\
 The name of the business is: Salsa Swings Dance Studio
 

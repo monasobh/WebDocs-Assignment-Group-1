@@ -1,4 +1,4 @@
-![Logo](https://github.com/monasobh/WebDocs-Assignment-Group-1/blob/main/assignment-2a/website-content/files/data/web/Salsa%20Swings%20Dance%20Studio-6.jpg =250x)
+![Logo](https://github.com/monasobh/WebDocs-Assignment-Group-1/blob/main/assignment-2a/website-content/files/data/web/Salsa%20Swings%20Dance%20Studio-6.jpg =x250)
 
 The webdevolpers for this assignment are:
 - Masoud Dangchi (Github name: dangchimasoud)

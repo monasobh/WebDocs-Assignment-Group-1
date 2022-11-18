@@ -1,4 +1,4 @@
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](assignment-2a/website-content/files/data/web/Salsa Swings Dance Studio-6.jpg)
 
 The webdevolpers for this assignment are:
 - Masoud Dangchi (Github name: dangchimasoud)

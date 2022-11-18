@@ -1,5 +1,5 @@
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+<img src="assignment-2a/website-content/files/data/web/Salsa%20Swings%20Dance%20Studio-6.jpg" width="400" height="400" />
 # Salsa Swings Dance Studio
 
 [Business Description](https://linktodocumentation)\

@@ -1,9 +1,9 @@
 <img src="assignment-2a/website-content/files/data/web/logo_final_transparent.png" width="500" height="500" />
 
-The webdevolpers for this assignment are:
-- Masoud Dangchi (Github name: dangchimasoud)
-- Andreas Bausch (Github name: bauscha)
-- Mona Sobhani (Github: monasobh)
+## About Us
+- [@dangchimasoud](https://www.github.com/dangchimasoud) (Masoud Dangchi)
+- [@bauscha](https://www.github.com/bauscha) (Andreas Bausch)
+- [@monasobh](https://www.github.com/monasobh) (Mona Sobhani)
 
 
 # Business Description

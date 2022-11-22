@@ -1,4 +1,4 @@
-<img src="assignment-2a/website-content/files/data/web/logo_final_transparent.png" width="400" height="400" />
+<img src="assignment-2a/website-content/files/data/web/logo_final_transparent.png" width="600" height="600" />
 
 The webdevolpers for this assignment are:
 - Masoud Dangchi (Github name: dangchimasoud)

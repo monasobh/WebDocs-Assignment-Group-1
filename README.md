@@ -1,4 +1,4 @@
-<img src="assignment-2a/website-content/files/data/web/Salsa%20Swings%20Dance%20Studio-6.jpg" width="200" height="200" />
+<img src="assignment-2a/website-content/files/data/web/logo_final_transparent.png" width="200" height="200" />
 
 The webdevolpers for this assignment are:
 - Masoud Dangchi (Github name: dangchimasoud)

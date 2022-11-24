@@ -1,0 +1,66 @@
+<courses>
+	<course>
+		<title>Salsa-Course</title>
+		<day>Wednesday</day>
+		<starttime>7 pm</starttime>
+		<duration>2 hours</duration>
+		<trainer>Chris</trainer>
+		<room>Room 2</room>
+	</course>
+	<course>
+		<title>Irish Dance-Course</title>
+		<day>Monday</day>
+		<starttime>7 pm</starttime>
+		<duration>1 hour</duration>
+		<trainer>Tamara</trainer>
+		<room>Room 1</room>
+	</course>
+	<course>
+		<title>Hip-Hop-Course 1 - Beginner</title>
+		<day>Tuesday</day>
+		<starttime>6 pm</starttime>
+		<duration>1.5 hours</duration>
+		<trainer>Detlef</trainer>
+		<room>Room 1</room>
+	</course>
+	<course>
+		<title>Hip-Hop-Course 2 - Advanced</title>
+		<day>Tuesday</day>
+		<starttime>8 pm</starttime>
+		<duration>1.5 hours</duration>
+		<trainer>Chris</trainer>
+		<room>Room 2</room>
+	</course>
+	<course>
+		<title>Swing-Course 1 - Beginner</title>
+		<day>Friday</day>
+		<starttime>6 pm</starttime>
+		<duration>1 hour</duration>
+		<trainer>Chris</trainer>
+		<room>Room 2</room>
+	</course>
+	<course>
+		<title>Swing-Course 2 - Advanced</title>
+		<day>Friday</day>
+		<starttime>8 pm</starttime>
+		<duration>1 hour</duration>
+		<trainer>Chris</trainer>
+		<room>Room 2</room>
+	</course>
+	<course>
+		<title>Swing-Course 3 - Competitive</title>
+		<day>Monday</day>
+		<starttime>7 pm</starttime>
+		<duration>3 hours</duration>
+		<trainer>Detlef</trainer>
+		<room>Room 2</room>
+	</course>
+	<course>
+		<title>Charleston-Course</title>
+		<day>Saturday</day>
+		<starttime>3pm</starttime>
+		<duration>2 hours</duration>
+		<trainer>Tamara</trainer>
+		<room>Room 1</room>
+	</course>
+</courses>

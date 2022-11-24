@@ -31,7 +31,7 @@ e.) The product is a website providing information about different dance courses
 f.) Personas:
 |  | Professional Dance Teacher     | Dance student                |
 | :-------- | :------- | :------------------------- |
-| `Photo` | <img src="assignment-2a/website-content/files/data/web/daniel_benz.jpg" width="200" /> | <img src="assignment-2a/website-content/files/data/web/swenja_polacho.jpg" width="200" /> |
+| `Photo` | <img src="assignment-2a/website-content/files/data/web/daniel_benz.jpg" width="200" /> | <img src="assignment-2a/website-content/files/data/web/swenja_polancho.jpg" width="200" /> |
 | `Fictional Name` | `string` | University Student |
 | `Demographics` | `string` | 23 years old, single, studying Sociology as Master |
 | `Goals and tasks` | `string` | **Required**. Your API key |

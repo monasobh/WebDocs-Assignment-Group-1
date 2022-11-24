@@ -31,7 +31,7 @@ e.) The product is a website providing information about different dance courses
 f.) Personas:
 |  | Professional Dance Teacher     | Dance student                |
 | :-------- | :------- | :------------------------- |
-| `Photo` | `string` | Swenja Polacho |
+| `Photo` | `<img src="assignment-2a/website-content/files/data/web/daniel_benz.jpg" width="200" />` | <img src="assignment-2a/website-content/files/data/web/swenja_polacho.jpg" width="200" /> |
 | `Fictional Name` | `string` | University Student |
 | `Demographics` | `string` | 23 years old, single, studying Sociology as Master |
 | `Goals and tasks` | `string` | **Required**. Your API key |
@@ -40,6 +40,11 @@ f.) Personas:
 
 
 g. Other relevant info: The members should be able to listen to the currently used soundtracks in the courses to be able to practise at home. They should also be able to watch dance introduction videos on the website.
+
+Sources:
+Photo for Persona Javier Michelo: http://s572452030.website-start.de/
+Photo for Swenja Polacho: https://jvdance.ch/wp-content/uploads/2016/05/P5120947-600x390.jpg
+Logo created with: adobe
 
 # Next header
 

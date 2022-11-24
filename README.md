@@ -31,15 +31,17 @@ e.) The product is a website providing information about different dance courses
 f.) Personas:
 |  | Professional Dance Teacher     | Dance student                |
 | :-------- | :------- | :------------------------- |
-| `Photo` | <img src="assignment-2a/website-content/files/data/web/daniel_benz.jpg" width="200" /> | <img src="assignment-2a/website-content/files/data/web/swenja_polancho.jpg" width="200" /> |
-| `Fictional Name` | `string` | University Student |
-| `Demographics` | `string` | 23 years old, single, studying Sociology as Master |
-| `Goals and tasks` | `string` | **Required**. Your API key |
-| `Environment` | `string` | **Required**. Your API key |
-| `Quote` | `string` | **Required**. Your API key |
+| `Photo` | <img src="assignment-2a/website-content/files/data/web/daniel_benz.jpg" width="250" /> | <img src="assignment-2a/website-content/files/data/web/swenja_polancho.jpg" width="200" /> |
+| `Fictional Name` | Javier Michelo | Swenja Polacho |
+| `Demographics` | 35 years old, married, recently became first child, has masters degree in Dance and Dance Choreopgraphy | 23 years old, single, studying Sociology as Master, working part time job |
+| `Goals and tasks` | His goal is to teach students how to dance different standard dances. He is a professional dancer and takes part in different dance competitions as well as in dance shows. His task is to provide dance lessons and be part of a dance studio team. | Her goal is to become a good dancer in ballet besides finishing her masters degree in sociology. Her tasks are writing the master thesis and attending dance lessons with her ballet partners for practising for a small ballet competition. |
+| `Environment` | In his daily day Javier is in the dance studio teaching classes mostly in the evening for students. He enjoys his passion and is thankful that he is able to do that as his job. | Swenja has a busy schedule during her week. Without her calendar she would be lost. Scheduling her week is very important to her and meetings with friends as well. |
+| `Quote` | “Feeling the rythm frees the soul” | “Reach for the stars” |
 
 
-g. Other relevant info: The members should be able to listen to the currently used soundtracks in the courses to be able to practise at home. They should also be able to watch dance introduction videos on the website.
+g.) Other relevant info:\
+The members should be able to listen to the currently used soundtracks in the courses to be able to practise at home. They should also be able to watch dance introduction videos on the website.
+We are aware that we are not supposed to create interacting websites - thats why for implementing we thought to tell our client to create dummy pages (e.g. Login for Dance Teachers). 
 
 Sources:\
 Photo for Persona Javier Michelo: http://s572452030.website-start.de/\

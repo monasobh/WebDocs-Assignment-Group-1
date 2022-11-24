@@ -1,4 +1,4 @@
-<img src="assignment-2a/website-content/files/data/web/logo_final_transparent.png" width="200" />
+<img src="assignment-2a/website-content/files/data/web/logo_final_transparent.png" width="400" />
 
 ## About Us
 - [@dangchimasoud](https://www.github.com/dangchimasoud) (Masoud Dangchi)

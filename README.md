@@ -68,15 +68,26 @@ To archieve an affordance-character, links in the navigation or buttons should r
 1. XML Data-File: Courses for the course-overview page will be read out of the Courses-List.xml file provided by us
 2. SVG Image: The Logo of the studio is a svg file, which should be included in the header of the pages
 3. Audio and Video:
-- Salsa Page:   Include this YouTube-Video as Music example for salsa: https://www.youtube.com/watch?v=DH8StTUCQNY
--               Include this YouTube-Video as Visual example, how Salsa looks like: https://www.youtube.com/watch?v=2mw6lXVush4
-- Irish Dance:  Include this YouTube-Video as Music example for Irish Dance: https://www.youtube.com/watch?v=hhDdqk7nYFs
--               Include this YouTube-Video as Visual Example, how Irisoh Dance looks like: https://www.youtube.com/watch?v=HgGAzBDE454
-- Hip Hop:      Include this YouTube-Video as Music example for Hip Hop: https://www.youtube.com/watch?v=0uHqiXyqJdY
--               Include this YouTube-Video as Visual Example, how Hip Hop looks like: https://www.youtube.com/watch?v=trOjXFjYESQ
-- Charleston:   Include this YouTube-Video as Music example for Charleston: https://www.youtube.com/watch?v=F5y0hSqO48U
--               Include this YouTube-Video as Visual Example, how Charleston looks like: https://www.youtube.com/watch?v=bkPUC3gWvbE
-- Swing:        Include this YouTube-Video as Music example for Swing: https://www.youtube.com/watch?v=R7ruixMDol4
--               Include this YouTube-Video as Visual Example, how Swing looks like: https://www.youtube.com/watch?v=VcsI84aINjE
-<br>
-Make sure to clarify on each page, that there is no affiliation between the video-creator and the dance studio!
+
+
+Salsa Page:<br>
+Include this YouTube-Video as Music example for salsa: https://www.youtube.com/watch?v=DH8StTUCQNY<br>
+Include this YouTube-Video as Visual example, how Salsa looks like: https://www.youtube.com/watch?v=2mw6lXVush4
+
+Irish Dance:<br>
+Include this YouTube-Video as Music example for Irish Dance: https://www.youtube.com/watch?v=hhDdqk7nYFs<br>
+Include this YouTube-Video as Visual Example, how Irisoh Dance looks like: https://www.youtube.com/watch?v=HgGAzBDE454
+
+Hip Hop:<br>
+Include this YouTube-Video as Music example for Hip Hop: https://www.youtube.com/watch?v=0uHqiXyqJdY<br>
+Include this YouTube-Video as Visual Example, how Hip Hop looks like: https://www.youtube.com/watch?v=trOjXFjYESQ
+
+Charleston:<br>
+Include this YouTube-Video as Music example for Charleston: https://www.youtube.com/watch?v=F5y0hSqO48U<br>
+Include this YouTube-Video as Visual Example, how Charleston looks like: https://www.youtube.com/watch?v=bkPUC3gWvbE
+
+Swing:<br>
+Include this YouTube-Video as Music example for Swing: https://www.youtube.com/watch?v=R7ruixMDol4<br>
+Include this YouTube-Video as Visual Example, how Swing looks like: https://www.youtube.com/watch?v=VcsI84aINjE
+<br><br>
+<strong>Make sure to clarify on each page, that there is no affiliation between the video-creator and the dance studio!</strong>

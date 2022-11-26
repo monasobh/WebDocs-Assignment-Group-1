@@ -64,4 +64,19 @@ Feelwise the website should provide a modern visual by creating sharp edges with
 The navigation + header should be implemented in a way, that there's a header with the logo on top and below that there should be a light-gray navigation bar. When scrolling down, the header should disappear on top while the navigation bar stays on top (sticky-positioning). 
 To archieve an affordance-character, links in the navigation or buttons should react to a mouse-hover to signal functionality to the user. 
 
-# Next header
+# Included Elements in Pages:
+1. XML Data-File: Courses for the course-overview page will be read out of the Courses-List.xml file provided by us
+2. SVG Image: The Logo of the studio is a svg file, which should be included in the header of the pages
+3. Audio and Video:
+- Salsa Page:   Include this YouTube-Video as Music example for salsa: https://www.youtube.com/watch?v=DH8StTUCQNY
+                Include this YouTube-Video as Visual example, how Salsa looks like: https://www.youtube.com/watch?v=2mw6lXVush4
+- Irish Dance:  Include this YouTube-Video as Music example for Irish Dance: https://www.youtube.com/watch?v=hhDdqk7nYFs
+                Include this YouTube-Video as Visual Example, how Irisoh Dance looks like: https://www.youtube.com/watch?v=HgGAzBDE454
+- Hip Hop:      Include this YouTube-Video as Music example for Hip Hop: https://www.youtube.com/watch?v=0uHqiXyqJdY
+                Include this YouTube-Video as Visual Example, how Hip Hop looks like: https://www.youtube.com/watch?v=trOjXFjYESQ
+- Charleston:   Include this YouTube-Video as Music example for Charleston: https://www.youtube.com/watch?v=F5y0hSqO48U
+                Include this YouTube-Video as Visual Example, how Charleston looks like: https://www.youtube.com/watch?v=bkPUC3gWvbE
+- Swing:        Include this YouTube-Video as Music example for Swing: https://www.youtube.com/watch?v=R7ruixMDol4
+                Include this YouTube-Video as Visual Example, how Swing looks like: https://www.youtube.com/watch?v=VcsI84aINjE
+                
+Make sure to clarify on each page, that there is no affiliation between the video-creator and the dance studio!

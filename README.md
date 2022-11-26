@@ -48,6 +48,18 @@ Photo for Persona Javier Michelo: http://s572452030.website-start.de/\
 Photo for Swenja Polacho: https://jvdance.ch/wp-content/uploads/2016/05/P5120947-600x390.jpg\
 Logo created with: adobe\
 
-# Next header
+# Visual Style
+Salsa Swings Dance Studio provides lots of experience in the different dance-types while providing a modern and young environment for its students. This should also be represented in the visual style of the website.
+
+Our color palette:
+- Base Color: #FF9700
+- Accent Color: #0C5AA6
+- Light Gray: #B0B0B0
+- Dark Gray: #2C2C2C
+
+The colors are really flashy to represent the young and modern environment. The Website should feature the contrast between the base color and the accent color to create an interesting visual. Also the provided logo svg provides a nice synergy when put on a background with the base color. 
+Feelwise the website should provide a modern visual by creating sharp edges without any rounded edges and a layered visual by adding drop-shadows on foreground-elements. 
+The navigation + header should be implemented in a way, that there's a header with the logo on top and below that there should be a light-gray navigation bar. When scrolling down, the header should disappear on top while the navigation bar stays on top (sticky-positioning). 
+To archieve an affordance-character, links in the navigation or buttons should react to a mouse-hover to signal functionality to the user. 
 
 # Next header

@@ -1,4 +1,4 @@
-<img src="assignment-2a/website-content/files/data/web/logo_final_transparent.png" width="320" />
+<img src="assignment-2a/website-content/files/data/web/Salsa Swings Logo.svg" width="320" />
 
 ## About Us
 - [@dangchimasoud](https://www.github.com/dangchimasoud) (Masoud Dangchi)

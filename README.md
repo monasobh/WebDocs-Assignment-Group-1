@@ -1,12 +1,7 @@
-<img src="assignment-2a/website-content/files/data/web/Salsa Swings Logo.svg" width="320" />
-
 ## About Us
 - [@dangchimasoud](https://www.github.com/dangchimasoud) (Masoud Dangchi)
 - [@bauscha](https://www.github.com/bauscha) (Andreas Bausch)
 - [@monasobh](https://www.github.com/monasobh) (Mona Sobhani)
-
-## The available domain for our webiste is: 
-https://www.name.com/domain/search/salsaswings [last-checked: 11/27/22)
 
 # Business Description
 
@@ -52,8 +47,6 @@ Logo created with: https://www.adobe.com/express/create/logo
 
 # Website Requirements
 a.) View the list of all websites in this file [webpages-list](assignment-2a/website-content/webpages-list.html)
-
-
 b.) Our website design diagram:
 <img src="https://i.ibb.co/zGkkGHV/Color-Palette-Salsa-Swings-Dance-Studio.png" width="250" /> \
 c.) Please include the following items on our website:\
@@ -84,7 +77,14 @@ Include this YouTube-Video as Visual Example, how Swing looks like: https://www.
 <br><br>
 <strong>Make sure to clarify on each page, that there is no affiliation between the video-creator and the dance studio!</strong>
 
-Other important requirements: \
+# Website content
+a.) The available domain for our webiste is: https://www.name.com/domain/search/salsaswings [last-checked: 11/27/22)\
+b.) The created text for the different pages can be found in the XXX file\
+c.) The collected images are in the folder XXX and the credits can be found in credits.html\
+d.) Our business logo:
+<img src="assignment-2a/website-content/files/data/web/Salsa Swings Logo.svg" width="320" /> \
+e.) All files can be found in files/data/web
+
 ## Visual Style
 Salsa Swings Dance Studio provides lots of experience in the different dance-types while providing a modern and young environment for its students. This should also be represented in the visual style of the website.
 
@@ -98,6 +98,8 @@ Our color palette:
 
 The colors are really flashy to represent the young and modern environment. The Website should feature the contrast between the base color and the accent color to create an interesting visual. Also the provided logo svg provides a nice synergy when put on a background with the base color. 
 Feelwise the website should provide a modern visual by creating sharp edges without any rounded edges and a layered visual by adding drop-shadows on foreground-elements. 
+
+## Navigation
 The navigation + header should be implemented in a way, that there's a header with the logo on top and below that there should be a light-gray navigation bar. When scrolling down, the header should disappear on top while the navigation bar stays on top (sticky-positioning). 
 To archieve an affordance-character, links in the navigation or buttons should react to a mouse-hover to signal functionality to the user. 
 

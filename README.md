@@ -50,7 +50,7 @@ Logo created with: adobe \
 
 # Website Requirements
 
-# Visual Style
+## Visual Style
 Salsa Swings Dance Studio provides lots of experience in the different dance-types while providing a modern and young environment for its students. This should also be represented in the visual style of the website.
 
 Our color palette:
@@ -66,7 +66,7 @@ Feelwise the website should provide a modern visual by creating sharp edges with
 The navigation + header should be implemented in a way, that there's a header with the logo on top and below that there should be a light-gray navigation bar. When scrolling down, the header should disappear on top while the navigation bar stays on top (sticky-positioning). 
 To archieve an affordance-character, links in the navigation or buttons should react to a mouse-hover to signal functionality to the user. 
 
-# Included Elements in Pages:
+## Included Elements in Pages:
 1. You can see the list of all webpages in this document [webpages-list](website-content/webpages-list.html)
 2. XML Data-File: Courses for the course-overview page will be read out of the Courses-List.xml file provided by us
 3. SVG Image: The Logo of the studio is a svg file, which should be included in the header of the pages

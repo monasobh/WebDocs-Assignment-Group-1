@@ -46,32 +46,17 @@ We are aware that we are not supposed to create interacting websites - thats why
 Sources:\
 Photo for Persona Javier Michelo: http://s572452030.website-start.de/ \
 Photo for Swenja Polacho: https://jvdance.ch/wp-content/uploads/2016/05/P5120947-600x390.jpg \
-Logo created with: adobe \
+Logo created with: https://www.adobe.com/express/create/logo
 
 # Website Requirements
+a.) View the list of all websites in this file [webpages-list](website-content/webpages-list.html) \
+b.) Our website design diagram: \
+<img src="https://i.ibb.co/zGkkGHV/Color-Palette-Salsa-Swings-Dance-Studio.png" width="250" /> \
+c.) Please include the following items on our website: \
 
-## Visual Style
-Salsa Swings Dance Studio provides lots of experience in the different dance-types while providing a modern and young environment for its students. This should also be represented in the visual style of the website.
-
-Our color palette:
-- Base Color: #FF9700
-- Accent Color: #0C5AA6
-- Light Gray: #B0B0B0
-- Dark Gray: #2C2C2C
-
-<img src="https://i.ibb.co/zGkkGHV/Color-Palette-Salsa-Swings-Dance-Studio.png" width="250" />
-
-The colors are really flashy to represent the young and modern environment. The Website should feature the contrast between the base color and the accent color to create an interesting visual. Also the provided logo svg provides a nice synergy when put on a background with the base color. 
-Feelwise the website should provide a modern visual by creating sharp edges without any rounded edges and a layered visual by adding drop-shadows on foreground-elements. 
-The navigation + header should be implemented in a way, that there's a header with the logo on top and below that there should be a light-gray navigation bar. When scrolling down, the header should disappear on top while the navigation bar stays on top (sticky-positioning). 
-To archieve an affordance-character, links in the navigation or buttons should react to a mouse-hover to signal functionality to the user. 
-
-## Included Elements in Pages:
-1. You can see the list of all webpages in this document [webpages-list](website-content/webpages-list.html)
 2. XML Data-File: Courses for the course-overview page will be read out of the Courses-List.xml file provided by us
 3. SVG Image: The Logo of the studio is a svg file, which should be included in the header of the pages
 4. Audio and Video:
-
 
 Salsa Page:<br>
 Include this YouTube-Video as Music example for salsa: https://www.youtube.com/watch?v=DH8StTUCQNY<br>
@@ -94,3 +79,22 @@ Include this YouTube-Video as Music example for Swing: https://www.youtube.com/w
 Include this YouTube-Video as Visual Example, how Swing looks like: https://www.youtube.com/watch?v=VcsI84aINjE
 <br><br>
 <strong>Make sure to clarify on each page, that there is no affiliation between the video-creator and the dance studio!</strong>
+
+Other important requirements: \
+## Visual Style
+Salsa Swings Dance Studio provides lots of experience in the different dance-types while providing a modern and young environment for its students. This should also be represented in the visual style of the website.
+
+Our color palette:
+- Base Color: #FF9700
+- Accent Color: #0C5AA6
+- Light Gray: #B0B0B0
+- Dark Gray: #2C2C2C
+
+<img src="https://i.ibb.co/zGkkGHV/Color-Palette-Salsa-Swings-Dance-Studio.png" width="250" />
+
+The colors are really flashy to represent the young and modern environment. The Website should feature the contrast between the base color and the accent color to create an interesting visual. Also the provided logo svg provides a nice synergy when put on a background with the base color. 
+Feelwise the website should provide a modern visual by creating sharp edges without any rounded edges and a layered visual by adding drop-shadows on foreground-elements. 
+The navigation + header should be implemented in a way, that there's a header with the logo on top and below that there should be a light-gray navigation bar. When scrolling down, the header should disappear on top while the navigation bar stays on top (sticky-positioning). 
+To archieve an affordance-character, links in the navigation or buttons should react to a mouse-hover to signal functionality to the user. 
+
+

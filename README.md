@@ -44,9 +44,11 @@ The members should be able to listen to the currently used soundtracks in the co
 We are aware that we are not supposed to create interacting websites - thats why for implementing we thought to tell our client to create dummy pages (e.g. Login for Dance Teachers). 
 
 Sources:\
-Photo for Persona Javier Michelo: http://s572452030.website-start.de/\
-Photo for Swenja Polacho: https://jvdance.ch/wp-content/uploads/2016/05/P5120947-600x390.jpg\
-Logo created with: adobe\
+Photo for Persona Javier Michelo: http://s572452030.website-start.de/ \
+Photo for Swenja Polacho: https://jvdance.ch/wp-content/uploads/2016/05/P5120947-600x390.jpg \
+Logo created with: adobe \
+
+# Website Requirements
 
 # Visual Style
 Salsa Swings Dance Studio provides lots of experience in the different dance-types while providing a modern and young environment for its students. This should also be represented in the visual style of the website.
@@ -65,9 +67,10 @@ The navigation + header should be implemented in a way, that there's a header wi
 To archieve an affordance-character, links in the navigation or buttons should react to a mouse-hover to signal functionality to the user. 
 
 # Included Elements in Pages:
-1. XML Data-File: Courses for the course-overview page will be read out of the Courses-List.xml file provided by us
-2. SVG Image: The Logo of the studio is a svg file, which should be included in the header of the pages
-3. Audio and Video:
+1. You can see the list of all webpages in this document [webpages-list](website-content/webpages-list.html)
+2. XML Data-File: Courses for the course-overview page will be read out of the Courses-List.xml file provided by us
+3. SVG Image: The Logo of the studio is a svg file, which should be included in the header of the pages
+4. Audio and Video:
 
 
 Salsa Page:<br>

@@ -1,21 +1,47 @@
 <courses>
 	<course>
+		<type>Salsa</type>
+		<level>Beginner</level>
 		<title>Salsa-Course</title>
 		<day>Wednesday</day>
-		<starttime>7 pm</starttime>
+		<starttime>7:00 pm</starttime>
 		<duration>2 hours</duration>
 		<trainer>Chris</trainer>
 		<room>Room 2</room>
 	</course>
 	<course>
+		<type>Salsa</type>
+		<level>Advanced</level>
+		<title>Salsa-Course</title>
+		<day>Wednesday</day>
+		<starttime>8:30 pm</starttime>
+		<duration>2 hours</duration>
+		<trainer>Chris</trainer>
+		<room>Room 2</room>
+	</course>
+	<course>
+		<type>Irish Dance</type>
+		<level>Beginner</level>
 		<title>Irish Dance-Course</title>
 		<day>Monday</day>
-		<starttime>7 pm</starttime>
+		<starttime>7:00 pm</starttime>
 		<duration>1 hour</duration>
 		<trainer>Tamara</trainer>
 		<room>Room 1</room>
 	</course>
 	<course>
+		<type>Irish Dance</type>
+		<level>Advanced</level>
+		<title>Irish Dance-Course</title>
+		<day>Monday</day>
+		<starttime>7:00 pm</starttime>
+		<duration>1 hour</duration>
+		<trainer>Detlef</trainer>
+		<room>Room 2</room>
+	</course>
+	<course>
+		<type>Hip-Hop</type>
+		<level>Beginner</level>
 		<title>Hip-Hop-Course 1 - Beginner</title>
 		<day>Tuesday</day>
 		<starttime>6 pm</starttime>
@@ -24,6 +50,8 @@
 		<room>Room 1</room>
 	</course>
 	<course>
+		<type>Hip-Hop</type>
+		<level>Advanced</level>
 		<title>Hip-Hop-Course 2 - Advanced</title>
 		<day>Tuesday</day>
 		<starttime>8 pm</starttime>
@@ -32,6 +60,8 @@
 		<room>Room 2</room>
 	</course>
 	<course>
+		<type>Swing</type>
+		<level>Beginner</level>
 		<title>Swing-Course 1 - Beginner</title>
 		<day>Friday</day>
 		<starttime>6 pm</starttime>
@@ -40,6 +70,8 @@
 		<room>Room 2</room>
 	</course>
 	<course>
+		<type>Swing</type>
+		<level>Advanced</level>
 		<title>Swing-Course 2 - Advanced</title>
 		<day>Friday</day>
 		<starttime>8 pm</starttime>
@@ -48,6 +80,8 @@
 		<room>Room 2</room>
 	</course>
 	<course>
+		<type>Swing</type>
+		<level>Competitive</level>
 		<title>Swing-Course 3 - Competitive</title>
 		<day>Monday</day>
 		<starttime>7 pm</starttime>
@@ -56,9 +90,21 @@
 		<room>Room 2</room>
 	</course>
 	<course>
-		<title>Charleston-Course</title>
+		<type>Charleston</type>
+		<level>Beginner</level>
+		<title>Charleston-Course 1 - Beginner</title>
 		<day>Saturday</day>
 		<starttime>3pm</starttime>
+		<duration>2 hours</duration>
+		<trainer>Tamara</trainer>
+		<room>Room 1</room>
+	</course>
+	<course>
+		<type>Charleston</type>
+		<level>Advanced</level>
+		<title>Charleston-Course 2 - Advanced</title>
+		<day>Saturday</day>
+		<starttime>7pm</starttime>
 		<duration>2 hours</duration>
 		<trainer>Tamara</trainer>
 		<room>Room 1</room>

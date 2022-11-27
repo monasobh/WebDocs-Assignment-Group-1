@@ -46,12 +46,12 @@ Photo for Swenja Polacho: https://jvdance.ch/wp-content/uploads/2016/05/P5120947
 Logo created with: https://www.adobe.com/express/create/logo
 
 # Website Requirements
-a.) View the list of all websites in this file [webpages-list](assignment-2a/website-content/webpages-list.html)
+a.) View the list of all websites in this file [webpages-list](assignment-2a/website-content/webpages-list.html\
 b.) Our website design diagram\
 <img src="https://i.ibb.co/zGkkGHV/Color-Palette-Salsa-Swings-Dance-Studio.png" width="250" /> \
-c.) Please include the following items on our website:\
+c.) Please include the following items on our website:
 
-1. Read the content for our dance courses in the document [webpages-list](website-content/Courses-List.xml) \
+1. Read the content for our dance courses in the document [webpages-list](website-content/Courses-List.xml)\
 2. SVG Image: The Logo of the studio is a svg file, which should be included in the header of the pages
 3. Audio and Video:
 

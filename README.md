@@ -5,6 +5,8 @@
 - [@bauscha](https://www.github.com/bauscha) (Andreas Bausch)
 - [@monasobh](https://www.github.com/monasobh) (Mona Sobhani)
 
+## The available domain for our webiste is: 
+https://www.name.com/domain/search/salsaswings [last-checked: 11/27/22)
 
 # Business Description
 

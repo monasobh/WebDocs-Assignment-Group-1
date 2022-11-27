@@ -54,9 +54,9 @@ b.) Our website design diagram: \
 <img src="https://i.ibb.co/zGkkGHV/Color-Palette-Salsa-Swings-Dance-Studio.png" width="250" /> \
 c.) Please include the following items on our website: \
 
-2. XML Data-File: Courses for the course-overview page will be read out of the Courses-List.xml file provided by us
-3. SVG Image: The Logo of the studio is a svg file, which should be included in the header of the pages
-4. Audio and Video:
+1. XML Data-File: Courses for the course-overview page will be read out of the Courses-List.xml file provided by us
+2. SVG Image: The Logo of the studio is a svg file, which should be included in the header of the pages
+3. Audio and Video:
 
 Salsa Page:<br>
 Include this YouTube-Video as Music example for salsa: https://www.youtube.com/watch?v=DH8StTUCQNY<br>

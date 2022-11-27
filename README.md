@@ -38,7 +38,6 @@ f.) Personas:
 
 g.) Other relevant info:\
 The members should be able to listen to the currently used soundtracks in the courses to be able to practise at home. They should also be able to watch dance introduction videos on the website.
-We are aware that we are not supposed to create interacting websites - thats why for implementing we thought to tell our client to create dummy pages (e.g. Login for Dance Teachers). 
 
 Sources:\
 Photo for Persona Javier Michelo: http://s572452030.website-start.de/ \

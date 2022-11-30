@@ -46,14 +46,14 @@ Logo created with: https://www.adobe.com/express/create/logo
 
 # Website Requirements
 a.) View the list of all websites in this file [webpages-list](assignment-2a/website-content/webpages-list.html\
-b.) Our website design diagram\
+b.) Our website design diagram
 
 <img src="readme_images/website-diagram.png" />
 
 c.) Please include the following items on our website:
 
 1. Read the content for our dance courses in the document [webpages-list](website-content/Courses-List.xml)\
-2. SVG Image: The Logo of the studio is a svg file, which should be included in the header of the pages
+2. SVG Image: The Logo of the studio is a svg file, which should be included in the header of the pages. You can find it in website-content/images/logo.svg
 3. Audio and Video:
 
 Salsa Page:<br>

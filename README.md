@@ -47,7 +47,9 @@ Logo created with: https://www.adobe.com/express/create/logo
 # Website Requirements
 a.) View the list of all websites in this file [webpages-list](assignment-2a/website-content/webpages-list.html\
 b.) Our website design diagram\
-<img src="readme_images/design-diagram.jpg" width="250" />
+
+<img src="readme_images/website-diagram.png" />
+
 c.) Please include the following items on our website:
 
 1. Read the content for our dance courses in the document [webpages-list](website-content/Courses-List.xml)\
@@ -81,7 +83,7 @@ a.) The available domain for our webiste is: https://www.name.com/domain/search/
 b.) The created text for the different pages can be found in the XXX file\
 c.) The collected images are in the folder XXX and the credits can be found in credits.html\
 d.) Our business logo:
-<img src="assignment-2a/website-content/files/data/web/Salsa Swings Logo.svg" width="320" /> \
+<img src="assignment-2a/website-content/files/data/web/logo.svg" width="320" /> \
 e.) All files can be found in files/data/web
 
 ## Visual Style

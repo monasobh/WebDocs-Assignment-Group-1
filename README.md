@@ -80,10 +80,14 @@ Include this YouTube-Video as Visual Example, how Swing looks like: https://www.
 
 # Website content
 a.) The available domain for our webiste is: https://www.name.com/domain/search/salsaswings [last-checked: 11/27/22)\
-b.) The created text for the different pages can be found in the XXX file\
-c.) The collected images are in the folder XXX and the credits can be found in credits.html\
+b.) The created text for the different pages can be found in [web](website-content/files/data/web/website_text.md)
+c.) The collected images are in the folder website-content/files/data/web/images and their [credits](website-content/files/data/web/images/credits.html)
 d.) Our business logo:
-<img src="assignment-2a/website-content/files/data/web/logo.svg" width="320" /> \
+
+
+<img src="assignment-2a/website-content/files/data/web/logo.svg" width="320" />
+
+
 e.) All files can be found in files/data/web
 
 ## Visual Style

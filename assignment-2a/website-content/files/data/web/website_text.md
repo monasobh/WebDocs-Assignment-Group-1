@@ -106,3 +106,88 @@ Swing dancing is a fun kind of social dancing where partners are frequently lift
 
 Finding swing dancers is simple—just search for the couple who is having the most fun and is grinning widely. There is a lot of swinging, flipping, and flinging of dancers during swing dance. It is a well-liked dance for a packed dance floor because it is a non-progressive dancing style and is primarily done in one location. Swing is a swift, brisk dance. Instead of holding hands around the waist or on the shoulders like ballroom dancers do, couples hold hands.
 
+
+##Reviews
+
+1. I had a terrific experience, and the instructor was really kind, enjoyable, and inspiring. Very tidy studio that is unquestionably safe for video. 5 stars
+2. I've been to a lot of dance studios, but this one has the friendliest personnel, the most lovely and peaceful setting, and enormous windows that let in a ton of lovely light! Would without a doubt suggest the classes! 5 stars
+3. It's enjoyable to practice your dancing here without fear of criticism. The teachers are outstanding! 5 stars
+4. Wow, this location has altered my life! Their private tutors and classes are fantastic... offered me the knowledge and self-assurance to develop into a great dancer. 5 stars
+5. It's a great location for dancing instruction. Come for the socials and dance the night away while fostering a sense of community. They offer classes for all skill levels, from complete beginners to experts. 5 stars
+6. I had a fun while I was there for a dance party. There are so many amazing people there that I will keep going and learn other dances. Additionally friendly is the staff. I would strongly recommend going if you haven't already. 5 stars
+
+
+##FAQs
+
+1. How do I get started?
+
+It's time for your next, well, first step! Our pupils get off to a good start with the introductory lesson. 
+You'll have access to your very own tutor at a time that works for you, naturally during business hours. We'll go through
+the basics of dancing, show you a few different styles, and help you feel at ease while dancing. You will have the opportunity
+to test out our services, allowing us to understand more about your preferences and learning style before providing you 
+with a recommendation that meets your requirements. Simply call, text, email, or message us, and you'll be dancing in no 
+time! We make it fun and simple!
+
+
+2. Why should I learn to dance?
+
+You are enhancing numerous aspects of your life by getting out on the dance floor. Your body tone and posture will improve, in addition to your mood, confidence, and social abilities. Learning to dance is an investment in an enjoyable and healthy lifestyle as well as in skill.
+
+Learning to dance can enhance cognitive abilities and brain function, as well as assist prevent or delay Alzheimer's disease in later life, according to studies.
+
+
+3. What should I wear for class?
+
+Dance is about having fun and moving. We advise that you dress comfortably so that you can move around freely.
+
+For your first lesson, you can dress whichever you like. After that, we will make a recommendation depending on the direction and style you select.
+
+Stilettos and other footwear with pointed heels should be avoided as they are uncomfortable for dancing in and could harm our floor.
+
+4. Do I need dance shoes?
+
+Although not essential, dance shoes are advised. However, we do not recommend that you wear rubber-soled shoes so that you can move around the floor easily.
+
+Shoes with metal bottoms or sharp heels are strongly discouraged since they could hurt someone or damage the floor.
+
+
+##Imprint
+
+Rules & Regulations
+
+In Vienna, Austria, the Salsa Swings dance studio offers dancing instruction.
+It is a requirement that participants abide by the Salsa Swings' guidelines.
+To follow the dance lesson, participants need have clean shoes and/or appropriate clothing.
+The duration of the dance class is reserved for a set amount of time, therefore a participant's tardy arrival won't always be made up for.
+Dance courses might be recorded, and the films and images might be used for advertising or for business purposes. 
+Participants consent to the possibility of their images being used for such purposes and waive their right to any monetary 
+recompense. However, further written authorization is still required if you want to film a solo or a specific dancer not in the dance group.
+
+Policy on privacy
+
+Cookies help us monitor visitor activity and website conversions. This enhances both our marketing efforts and user experience.
+This information is kept secure and is not disclosed to outside parties.
+
+
+##News
+
+1. The New Dance Moves of Rihanna (EXPLORED)
+
+Yesterday, the singer posted a brand-new video to Instagram in which she can be seen dancing while wearing a gray oversized
+hoodie and matching pants. She accessorizes the ensemble with a silver chain necklace, wears her hair down in a silky
+blowout, and opts for a bronze beauty look.
+
+A musical remix of her speaking is playing as she dances around in the laid-back outfit by Savage x Fenty. "I hate you
+if your hands are on a phone texting. If you're taking photos of me, I just want to see you on your phone "she claims.
+
+
+2. The 10-year anniversary gala for L.A. Dance Project is brought to life by dance.
+
+On October 29, L.A. hosted a banquet to celebrate their tenth anniversary at the Pritzker home in Beverly Hills.
+Dance Project honored a decade of dance in front of the audience that sustained its craft. Dancers strolled through the estate,
+greeting guests with outstretched arms before launching into a routine that kissed the ground in every area of the property.
+The audience was enthralled by the show both inside and outside the house as they watched, frequently giggling along with the dancers.
+
+The group just debuted "Be Here Now," a new piece choreographed by Benjamin Millepied, co-artistic director and co-founder
+of LADP, alongside Gisèle Vienne's "Crowd" on Wednesday and Thursday at LADP's downtown Los Angeles location.
+

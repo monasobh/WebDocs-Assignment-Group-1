@@ -28,7 +28,7 @@ e.) The product is a website providing information about different dance courses
 f.) Personas:
 |  | Professional Dance Teacher     | Dance student                |
 | :-------- | :------- | :------------------------- |
-| `Photo` | <img src="assignment-2a/website-content/files/data/web/daniel_benz.jpg" width="250" /> | <img src="assignment-2a/website-content/files/data/web/swenja_polancho.jpg" width="200" /> |
+| `Photo` | <img src="readme_images/daniel_benz.jpg" width="250" /> | <img src="readme_images/swenja_polancho.jpg" width="200" /> |
 | `Fictional Name` | Javier Michelo | Swenja Polacho |
 | `Demographics` | 35 years old, married, recently became first child, has masters degree in Dance and Dance Choreopgraphy | 23 years old, single, studying Sociology as Master, working part time job |
 | `Goals and tasks` | His goal is to teach students how to dance different standard dances. He is a professional dancer and takes part in different dance competitions as well as in dance shows. His task is to provide dance lessons and be part of a dance studio team. | Her goal is to become a good dancer in ballet besides finishing her masters degree in sociology. Her tasks are writing the master thesis and attending dance lessons with her ballet partners for practising for a small ballet competition. |
@@ -47,7 +47,7 @@ Logo created with: https://www.adobe.com/express/create/logo
 # Website Requirements
 a.) View the list of all websites in this file [webpages-list](assignment-2a/website-content/webpages-list.html\
 b.) Our website design diagram\
-<img src="https://i.ibb.co/zGkkGHV/Color-Palette-Salsa-Swings-Dance-Studio.png" width="250" /> \
+<img src="" width="250" readme_images/website-design-diagram.pdf/> \
 c.) Please include the following items on our website:
 
 1. Read the content for our dance courses in the document [webpages-list](website-content/Courses-List.xml)\

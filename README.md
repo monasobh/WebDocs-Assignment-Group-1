@@ -45,8 +45,8 @@ Photo for Swenja Polacho: https://jvdance.ch/wp-content/uploads/2016/05/P5120947
 Logo created with: https://www.adobe.com/express/create/logo
 
 # Website Requirements
-a.) View the list of all websites in this file [webpages-list](assignment-2a/website-content/webpages-list.html)
-b.) Our website design diagram\
+a.) View the list of all websites in this file [webpages-list](assignment-2a/website-content/webpages-list.html)\
+b.) Our website design diagram
 
 <img src="readme_images/website-diagram.png" />
 

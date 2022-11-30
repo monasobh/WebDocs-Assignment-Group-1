@@ -47,7 +47,7 @@ Logo created with: https://www.adobe.com/express/create/logo
 # Website Requirements
 a.) View the list of all websites in this file [webpages-list](assignment-2a/website-content/webpages-list.html\
 b.) Our website design diagram\
-<img src="" width="250" readme_images/website-design-diagram.pdf/> \
+<img src="readme_images/website-design-diagram.pdf" width="250" />
 c.) Please include the following items on our website:
 
 1. Read the content for our dance courses in the document [webpages-list](website-content/Courses-List.xml)\

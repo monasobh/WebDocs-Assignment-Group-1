@@ -45,13 +45,15 @@ Photo for Swenja Polacho: https://jvdance.ch/wp-content/uploads/2016/05/P5120947
 Logo created with: https://www.adobe.com/express/create/logo
 
 # Website Requirements
-a.) View the list of all websites in this file [webpages-list](assignment-2a/website-content/webpages-list.html\
-b.) Our website design diagram\
-<img src="readme_images/website-design-diagram.pdf" width="250" />
+a.) View the list of all websites in this file [webpages-list](assignment-2a/website-content/webpages-list.html)\
+b.) Our website design diagram
+
+<img src="readme_images/website-diagram.png" />
+
 c.) Please include the following items on our website:
 
-1. Read the content for our dance courses in the document [webpages-list](website-content/Courses-List.xml)\
-2. SVG Image: The Logo of the studio is a svg file, which should be included in the header of the pages
+1. Read the content for our dance courses in the document [webpages-list](website-content/Courses-List.xml)
+2. SVG Image: The logo of the studio is a [svg file](website-content/images/logo.svg), which should be included in the header of the pages. 
 3. Audio and Video:
 
 Salsa Page:<br>
@@ -78,10 +80,14 @@ Include this YouTube-Video as Visual Example, how Swing looks like: https://www.
 
 # Website content
 a.) The available domain for our webiste is: https://www.name.com/domain/search/salsaswings [last-checked: 11/27/22)\
-b.) The created text for the different pages can be found in the XXX file\
-c.) The collected images are in the folder XXX and the credits can be found in credits.html\
+b.) The created text for the different pages can be found in [web](website-content/files/data/web/website_text.md)\
+c.) The collected images are in the folder website-content/files/data/web/images and their [credits](website-content/files/data/web/images/credits.html)\
 d.) Our business logo:
-<img src="assignment-2a/website-content/files/data/web/Salsa Swings Logo.svg" width="320" /> \
+
+
+<img src="assignment-2a/website-content/files/data/web/logo.svg" width="320" />
+
+
 e.) All files can be found in files/data/web
 
 ## Visual Style

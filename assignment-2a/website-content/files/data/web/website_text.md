@@ -191,3 +191,9 @@ The audience was enthralled by the show both inside and outside the house as the
 The group just debuted "Be Here Now," a new piece choreographed by Benjamin Millepied, co-artistic director and co-founder
 of LADP, alongside Gisèle Vienne's "Crowd" on Wednesday and Thursday at LADP's downtown Los Angeles location.
 
+
+
+##Schedule
+
+Here you can find the timetable for the dance classes. Remember to have your dancing clothes and shoes perfectly clean
+and wearing them and be present 15 minutes before the class starts. You can do some stretching in the 15 minutes :)

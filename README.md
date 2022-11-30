@@ -102,10 +102,10 @@ Our color palette:
 <img src="https://i.ibb.co/zGkkGHV/Color-Palette-Salsa-Swings-Dance-Studio.png" width="250" />
 
 The colors are really flashy to represent the young and modern environment. The Website should feature the contrast between the base color and the accent color to create an interesting visual. Also the provided logo svg provides a nice synergy when put on a background with the base color. 
-Feelwise the website should provide a modern visual by creating sharp edges without any rounded edges and a layered visual by adding drop-shadows on foreground-elements. 
+Feelwise the website should provide a modern visual by creating sharp edges without any rounded edges and a layered visual by adding drop-shadows on foreground-elements.
 
 ## Navigation
 The navigation + header should be implemented in a way, that there's a header with the logo on top and below that there should be a light-gray navigation bar. When scrolling down, the header should disappear on top while the navigation bar stays on top (sticky-positioning). 
-To archieve an affordance-character, links in the navigation or buttons should react to a mouse-hover to signal functionality to the user. 
+To archieve an affordance-character, links in the navigation or buttons should react to a mouse-hover to signal functionality to the user. This could be archieved to change the color on hover from the base-color to the accent-color. 
 
 

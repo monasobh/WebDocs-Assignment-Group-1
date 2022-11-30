@@ -43,6 +43,8 @@ FEES ADULT CLASSES
 
 
 #Courses overview
+Learn to dance with Salsa Swings Dance School and share our passion, we have courses for every taste!
+In this overview you can see all our offered dance-courses. For more details, click on the individual links of your desired dance-course. Every page of the single dances has a schedule with the date of the course. Also visit the course overview to see all courses in a timetable.
 
 ##Salsa
 

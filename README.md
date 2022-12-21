@@ -3,7 +3,7 @@
 - [@bauscha](https://www.github.com/bauscha) (Andreas Bausch)
 - [@monasobh](https://www.github.com/monasobh) (Mona Sobhani)
 
-## Work distribution for our Group as Developers
+## Work distribution for us (Group 1) as developers
 - setup of initial page (Github pages) - Masoud
 - responsible for communication to Group 6 (developer) - Mona
 - HTML5 - Masoud

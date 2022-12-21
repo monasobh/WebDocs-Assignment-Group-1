@@ -106,6 +106,13 @@ Feelwise the website should provide a modern visual by creating sharp edges with
 
 ## Navigation
 The navigation + header should be implemented in a way, that there's a header with the logo on top and below that there should be a light-gray navigation bar. When scrolling down, the header should disappear on top while the navigation bar stays on top (sticky-positioning). 
-To archieve an affordance-character, links in the navigation or buttons should react to a mouse-hover to signal functionality to the user. This could be archieved to change the color on hover from the base-color to the accent-color. 
+To archieve an affordance-character, links in the navigation or buttons should react to a mouse-hover to signal functionality to the user. This could be archieved to change the color on hover from the base-color to the accent-color.
 
-
+## Work distribution for our Group\
+- setup of initial page (Github pages) - Masoud\
+- responsible for communication to Group 6 (developer) - Mona\
+- HTML5 - Masoud\
+- CSS - Andreas\
+- Visual Clarity - Mona\
+- Adaptive page design - Mona\
+- Evaluated our Code using an online validator and refactor - Andreas\

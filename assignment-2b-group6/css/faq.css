@@ -1,0 +1,19 @@
+details {
+      padding: 10px;
+        border: 1px solid black;
+        border-collapse: collapse;
+}
+
+summary:hover {
+background-color: #add8e6;05:41 11/01/2023
+}
+
+summary {
+margin-bottom: 10px;
+}
+
+details > div {
+      padding: 10px;
+        border-top: 1px solid black;
+        border-collapse: collapse;
+}

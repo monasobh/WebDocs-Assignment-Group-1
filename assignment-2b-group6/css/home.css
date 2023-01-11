@@ -1,0 +1,27 @@
+.sub_content {
+margin-top: 50px;
+margin-bottom: 50px;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: top;
+}
+
+h2 {
+text-align: center;
+}
+
+.text {
+margin-left: 50px;
+}
+
+@media screen and (max-width: 1200px) {
+.sub_content {
+margin-top: 50px;
+margin-bottom: 50px;
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: center;
+}
+}

@@ -1,0 +1,142 @@
+/* CSS styles */
+h1 {
+color: #CE5937;
+}
+
+body {
+  color: #2C2C2C;
+  font-family: Helvetica;
+  margin: 0 auto;
+}
+
+.content {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+a { color: #CE5937; }
+
+.header {
+  background-color: grey;
+}
+
+.header > div{
+  max-width: 1200px;
+  margin: 0 auto;
+}
+  
+.header > nav > ul{
+  max-width: 1200px;
+  margin: 0 auto;
+}  
+
+.header > nav {
+    background-color: #dddddd;
+}
+
+.vl {
+  border-left: 2px solid black;
+  border-raidus: 1px;
+  height: 22px;
+  border-color: #2C2C2C;;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  height: 40px;
+}
+
+@media screen and (max-width: 600px) {
+  nav {
+    height: 13rem;
+  }
+  
+  ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  }
+
+li {
+  padding-bottom: 5px;
+}
+  
+  .vl {
+    display:none;
+  }
+}
+
+.submenu ul {
+    color: #1a6eb6;
+}
+  
+li a {
+  padding: 8px;
+}
+  
+.footer {
+  background-color: grey; 
+  margin: 20px 0 0 0;
+}
+
+ footer {
+  max-width: 1200px;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  gap: 175px;
+  justify-content: center;
+  height: 125px;;
+  }
+
+
+
+button {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  color: #CE5937;
+  height: 50px;
+  width: 100px;
+}
+
+  footer {
+  position: relative;
+  max-width: 1200px;
+  margin: 0 auto;
+}  
+@media screen and (max-width: 1200px) {
+    footer {
+    max-width: 1200px;
+    display: flex;
+    align-items: start;
+    margin-left: 50px;
+    padding-top: 25px;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: left;
+    min-height: 250px;
+}
+  button {
+  width: 250px;
+}
+}
+
+@media screen and (max-width: 600px) {
+     button {
+  width: 100px;
+}
+}
+
+.icons {
+  position: absolute;
+  bottom: 0;
+  right: 25px;
+}
+

@@ -1,0 +1,25 @@
+h2 {
+padding-top: 20px;
+}
+
+.teacher_card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.teacher_card_container {
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+}
+
+@media screen and (max-width: 1200px) {
+.teacher_card_container {
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: center;
+gap: 50px;
+padding-top: 50px;
+}
+}

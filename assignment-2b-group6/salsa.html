@@ -4,43 +4,45 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <style>
-      ul {
-        list-style-type: none;
-        margin: 0;
-        padding: 0;
-        overflow: hidden;
-      }
-      li {
-        float: left;
-      }
-      li a {
-        display: block;
-        padding: 8px;
-        background-color: #dddddd;
-      }
-    </style>
+	<link href="css/general.css" rel="stylesheet">
+	<link href="css/salsa.css" rel="stylesheet">
+	
     <title>Salsa</title>
   </head>
   <body>
     <header>
-      <img src="images/logo.svg" alt="logo" height="150" width="150" />
-      <nav>
-        <ul>
-          <li><a href="home.html">Home</a></li>
-          <li><a href="about_us.html">About Us</a></li>
-          <li><a href="courses.html">Courses</a></li>
-          <li><a href="reviews.html">Reviews</a></li>
-          <li><a href="news.html">News</a></li>
-          <li><a href="faq.html">FAQs</a></li>
-          <li><a href="contact.html">Contact</a></li>
-        </ul>
-      </nav>
+      <div class="header">
+        <div>
+          <img src="images/logo.svg" alt="logo" height="150" width="150" />
+        </div>
+        <nav>
+          <ul>
+            <li><a href="home.html">Home</a> </li>
+            <li><div class="vl"></div></li> 
+            <li><a href="about_us.html">About Us</a></li>
+            <li><div class="vl"></div></li> 
+            <li><a href="courses.html">Courses</a></li>
+            <li><div class="vl"></div></li> 
+            <li><a href="reviews.html">Reviews</a></li>
+            <li><div class="vl"></div></li> 
+            <li><a href="news.html">News</a></li>
+            <li><div class="vl"></div></li> 
+            <li><a href="faq.html">FAQs</a></li>
+            <li><div class="vl"></div></li> 
+            <li><a href="contact.html">Contact</a></li>
+          </ul>
+        </nav>
+      </div>
     </header>
-
+	
+  <body>
+      <div class="content">
+	<div class="sub_content">
     <!-- image -->
-    <img src="images/salsa_dance.jpg" alt="" />
-
+	<div class="image">
+    <img src="images/salsa_dance.jpg" alt="" height="341" width="512" />
+</div>
+	<div class="text">
     <h1>Salsa</h1>
     <p>
       Salsa is a sensual, upbeat, and enjoyable partner dance. It is a fairly
@@ -51,9 +53,11 @@
       Salsa clubs are now widely available anywhere you travel in the entire
       planet.
     </p>
-
+	</div>
+	</div>
     <!-- salsa schedule -->
-
+	<div class="sub_content">
+	<div class="text">
     <h2>Schedule</h2>
     <table>
       <tr>
@@ -75,27 +79,43 @@
         <td>Advanced</td>
       </tr>
     </table>
-
+	</div>
+	</div>
     <!-- footer -->
 
-    <footer>
-      <form style="display: inline" action="schedule.html" method="get">
-        <button>Schedule</button>
-      </form>
-      <form style="display: inline" action="courses.html" method="get">
-        <button>Courses</button>
-      </form>
-      <form style="display: inline" action="about_us.html" method="get">
-        <button>About Us</button>
-      </form>
+</div>
+    <!-- footer -->
+    <div class="footer">
+      <footer>
 
-      <img src="images/tw.png" alt="twitter" />
-      <img src="images/ig.png" alt="instagram" />
-      <img src="images/fb.png" alt="facebook" />
-      <ul>
-        <li><a href="imprint.html">Imprint</a></li>
-        <li><a href="credits.html">Credit</a></li>
-      </ul>
-    </footer>
+          
+          <form action="schedule.html" method="get">
+            <div id="formbox">
+              <button>Schedule</button>
+            </div>
+          </form>
+          <form action="courses.html" method="get">
+            <div id="formbox">
+              <button>Courses</button>
+            </div>
+          </form>
+          <form action="about_us.html" method="get">
+            <div id="formbox">
+              <button>About Us</button>
+            </div>
+          </form>
+
+        <div class="icons">
+          <img src="images/tw.png" alt="twitter" />
+          <img src="images/ig.png" alt="instagram" />
+          <img src="images/fb.png" alt="facebook" />
+          <ul>
+            <li><a href="imprint.html">Imprint</a></li>
+            <li><div class="vl"></div></li> 
+            <li><a href="credits.html">Credit</a></li>
+          </ul>
+        </div>
+      </footer>
+    </div>
   </body>
 </html>

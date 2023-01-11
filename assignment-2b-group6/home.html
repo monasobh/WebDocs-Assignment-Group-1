@@ -4,51 +4,48 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
-    <style>
-      ul {
-        list-style-type: none;
-        margin: 0;
-        padding: 0;
-        overflow: hidden;
-      }
-      li {
-        float: left;
-      }
-      li a {
-        display: block;
-        padding: 8px;
-        background-color: #dddddd;
-      }
-    </style>
-    <title>Salsa Swings Dance School</title>
+	<link href="css/general.css" rel="stylesheet">
+	<link href="css/home.css" rel="stylesheet">
+	
+    <title>Home</title>
   </head>
   <body>
     <header>
-      <!-- logo -->
-      <img src="images/logo.svg" alt="logo" height="150" width="150" />
-
-      <!-- navbar -->
-      <nav>
-        <ul>
-          <li><a href="home.html">Home</a></li>
-          <li><a href="about_us.html">About Us</a></li>
-          <li><a href="courses.html">Courses</a></li>
-          <li><a href="reviews.html">Reviews</a></li>
-          <li><a href="news.html">News</a></li>
-          <li><a href="faq.html">FAQs</a></li>
-          <li><a href="contact.html">Contact</a></li>
-        </ul>
-      </nav>
+      <div class="header">
+        <div>
+          <img src="images/logo.svg" alt="logo" height="150" width="150" />
+        </div>
+        <nav>
+          <ul>
+            <li><a href="home.html">Home</a> </li>
+            <li><div class="vl"></div></li> 
+            <li><a href="about_us.html">About Us</a></li>
+            <li><div class="vl"></div></li> 
+            <li><a href="courses.html">Courses</a></li>
+            <li><div class="vl"></div></li> 
+            <li><a href="reviews.html">Reviews</a></li>
+            <li><div class="vl"></div></li> 
+            <li><a href="news.html">News</a></li>
+            <li><div class="vl"></div></li> 
+            <li><a href="faq.html">FAQs</a></li>
+            <li><div class="vl"></div></li> 
+            <li><a href="contact.html">Contact</a></li>
+          </ul>
+        </nav>
+      </div>
     </header>
-
+    <div class="content">
     <!-- company name -->
     <h1>Salsa Swings Dance School</h1>
 
+	<div class="sub_content">
     <!-- image -->
-    <img src="images/home_page.jpg" alt="homepage_image" />
+	<div class="image">
+    <img src="images/home_page.jpg" alt="homepage_image" height="341" width="512" />
+	</div>
 
     <!-- title -->
+	<div class="text">
     <h2>Title</h2>
     <p>
       Since 2022, Salsa Swings Dance Studio has operated successfully as a
@@ -62,28 +59,43 @@
       Additionally, why not take your first class absolutely FREE dance session
       and see for yourself? We are confident that you won't be let down.
     </p>
-
+	
     <br />
-
+	</div>
+	</div>
+</div>
     <!-- footer -->
-    <footer>
-      <form style="display: inline" action="schedule.html" method="get">
-        <button>Schedule</button>
-      </form>
-      <form style="display: inline" action="courses.html" method="get">
-        <button>Courses</button>
-      </form>
-      <form style="display: inline" action="about_us.html" method="get">
-        <button>About Us</button>
-      </form>
+    <div class="footer">
+      <footer>
 
-      <img src="images/tw.png" alt="twitter" />
-      <img src="images/ig.png" alt="instagram" />
-      <img src="images/fb.png" alt="facebook" />
-      <ul>
-        <li><a href="imprint.html">Imprint</a></li>
-        <li><a href="credits.html">Credit</a></li>
-      </ul>
-    </footer>
+          
+          <form action="schedule.html" method="get">
+            <div id="formbox">
+              <button>Schedule</button>
+            </div>
+          </form>
+          <form action="courses.html" method="get">
+            <div id="formbox">
+              <button>Courses</button>
+            </div>
+          </form>
+          <form action="about_us.html" method="get">
+            <div id="formbox">
+              <button>About Us</button>
+            </div>
+          </form>
+
+        <div class="icons">
+          <img src="images/tw.png" alt="twitter" />
+          <img src="images/ig.png" alt="instagram" />
+          <img src="images/fb.png" alt="facebook" />
+          <ul>
+            <li><a href="imprint.html">Imprint</a></li>
+            <li><div class="vl"></div></li> 
+            <li><a href="credits.html">Credit</a></li>
+          </ul>
+        </div>
+      </footer>
+    </div>
   </body>
 </html>

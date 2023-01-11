@@ -4,93 +4,114 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <style>
-      ul {
-        list-style-type: none;
-        margin: 0;
-        padding: 0;
-        overflow: hidden;
-      }
-      li {
-        float: left;
-      }
-      li a {
-        display: block;
-        padding: 8px;
-        background-color: #dddddd;
-      }
-    </style>
+	<link href="css/general.css" rel="stylesheet">
+	<link href="css/about_us.css" rel="stylesheet">
+
     <title>About Us</title>
   </head>
   <body>
     <header>
-      <img src="images/logo.svg" alt="logo" height="150" width="150" />
-
-      <nav>
-        <ul>
-          <li><a href="home.html">Home</a></li>
-          <li><a href="about_us.html">About Us</a></li>
-          <li><a href="courses.html">Courses</a></li>
-          <li><a href="reviews.html">Reviews</a></li>
-          <li><a href="news.html">News</a></li>
-          <li><a href="faq.html">FAQs</a></li>
-          <li><a href="contact.html">Contact</a></li>
-        </ul>
-      </nav>
+      <div class="header">
+        <div>
+          <img src="images/logo.svg" alt="logo" height="150" width="150" />
+        </div>
+        <nav>
+          <ul>
+            <li><a href="home.html">Home</a> </li>
+            <li><div class="vl"></div></li> 
+            <li><a href="about_us.html">About Us</a></li>
+            <li><div class="vl"></div></li> 
+            <li><a href="courses.html">Courses</a></li>
+            <li><div class="vl"></div></li> 
+            <li><a href="reviews.html">Reviews</a></li>
+            <li><div class="vl"></div></li> 
+            <li><a href="news.html">News</a></li>
+            <li><div class="vl"></div></li> 
+            <li><a href="faq.html">FAQs</a></li>
+            <li><div class="vl"></div></li> 
+            <li><a href="contact.html">Contact</a></li>
+          </ul>
+        </nav>
+      </div>
     </header>
+    <div class="content">
+      <!-- title -->
+      <h1>Our Vision</h1>
 
-    <!-- title -->
-    <h1>Our Vision</h1>
+      <p>
+        We at Salsa Swingers believe it is crucial for students to learn a lot
+        more than just how to dance. We take delight in making sure we develop
+        abilities that can be applied in daily life. From our beginner movement
+        courses to our advanced classes, we strive to instill a sense of belonging
+        in all of our students by helping them grow their confidence, skills, and
+        sportsmanship. <br /><br />
 
-    <p>
-      We at Salsa Swingers believe it is crucial for students to learn a lot
-      more than just how to dance. We take delight in making sure we develop
-      abilities that can be applied in daily life. From our beginner movement
-      courses to our advanced classes, we strive to instill a sense of belonging
-      in all of our students by helping them grow their confidence, skills, and
-      sportsmanship. <br /><br />
+        We also have a strong commitment to ensuring that each person's
+        requirements are met in order to realize their full potential. At Salsa
+        Swingers, all employees are trained to recognize those who require
+        additional assistance. <br /><br />
 
-      We also have a strong commitment to ensuring that each person's
-      requirements are met in order to realize their full potential. At Salsa
-      Swingers, all employees are trained to recognize those who require
-      additional assistance. <br /><br />
+        A supportive, encouraging, and nurturing setting is ideal for learning. We
+        also offer top-notch private instruction for individuals looking to
+        advance to a competitive level. As a school, we have won the EU’s top
+        school award for the previous year. So rest assured that Salsa Swingers
+        will provide first-rate service and a warm welcome.
+      </p>
 
-      A supportive, encouraging, and nurturing setting is ideal for learning. We
-      also offer top-notch private instruction for individuals looking to
-      advance to a competitive level. As a school, we have won the EU’s top
-      school award for the previous year. So rest assured that Salsa Swingers
-      will provide first-rate service and a warm welcome.
-    </p>
+      <!-- teachers list -->
 
-    <!-- teachers list -->
-
-    <h2>Our Elite Dance Teachers</h2>
-    <img src="images/teachers.png" alt="" />Chris Salsa
-    <img src="images/teachers.png" alt="" />Tamara Irish Dance
-    <img src="images/teachers.png" alt="" />Detlef Hiphop
-    <img src="images/teachers.png" alt="" />Tamara Charleston
-    <img src="images/teachers.png" alt="" />Chris Swing
-
+      <h2>Our Elite Dance Teachers</h2>
+	  <div class="teacher_card_container">
+	  <div class="teacher_card">
+      <img src="images/teachers.png" alt="" />
+	  <p> Chris Salsa </p>
+	  </div>
+	  <div class="teacher_card">
+      <img src="images/teachers.png" alt="" />
+	  	  <p> Tamara Irish Dance </p>
+	  </div>
+	  <div class="teacher_card">
+      <img src="images/teachers.png" alt="" />
+	  	  <p> Detlef Hiphop </p>
+		</div>
+	  <div class="teacher_card">
+      <img src="images/teachers.png" alt="" />
+	  	  <p> Tamara Charleston </p>
+	  </div>
+	 </div>
+	 </div>
     <!-- footer -->
+    <div class="footer">
+      <footer>
 
-    <footer>
-      <form style="display: inline" action="schedule.html" method="get">
-        <button>Schedule</button>
-      </form>
-      <form style="display: inline" action="courses.html" method="get">
-        <button>Courses</button>
-      </form>
-      <form style="display: inline" action="about_us.html" method="get">
-        <button>About Us</button>
-      </form>
+          
+          <form action="schedule.html" method="get">
+            <div id="formbox">
+              <button>Schedule</button>
+            </div>
+          </form>
+          <form action="courses.html" method="get">
+            <div id="formbox">
+              <button>Courses</button>
+            </div>
+          </form>
+          <form action="about_us.html" method="get">
+            <div id="formbox">
+              <button>About Us</button>
+            </div>
+          </form>
 
-      <img src="images/tw.png" alt="twitter" />
-      <img src="images/ig.png" alt="instagram" />
-      <img src="images/fb.png" alt="facebook" />
-      <ul>
-        <li><a href="imprint.html">Imprint</a></li>
-        <li><a href="credits.html">Credit</a></li>
-      </ul>
-    </footer>
+        <div class="icons">
+          <img src="images/tw.png" alt="twitter" />
+          <img src="images/ig.png" alt="instagram" />
+          <img src="images/fb.png" alt="facebook" />
+          <ul>
+            <li><a href="imprint.html">Imprint</a></li>
+            <li><div class="vl"></div></li> 
+            <li><a href="credits.html">Credit</a></li>
+          </ul>
+        </div>
+      </footer>
+    </div>
   </body>
 </html>

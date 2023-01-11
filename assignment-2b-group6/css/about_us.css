@@ -4,6 +4,7 @@ padding-top: 20px;
 
 .teacher_card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
 }
 
 .teacher_card_container {
@@ -12,6 +13,7 @@ flex-direction: row;
 justify-content: space-between;
 align-items: center;
 }
+
 
 @media screen and (max-width: 1200px) {
 .teacher_card_container {

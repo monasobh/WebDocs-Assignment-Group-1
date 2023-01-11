@@ -15,6 +15,10 @@ address {
 margin-bottom: 25px;
 }
 
+.contact_info {
+margin-left: 50px;
+}
+
 .colored_address {
 color: #CE5937;
 }

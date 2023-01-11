@@ -9,7 +9,6 @@ margin-bottom: 50px;
 display: flex;
 flex-direction: row;
 justify-content: space-between;
-align-items: top;
 }
 
 .sub_content:nth-child(1) {

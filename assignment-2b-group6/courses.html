@@ -4,54 +4,49 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <style>
-      ul {
-        list-style-type: none;
-        margin: 0;
-        padding: 0;
-        overflow: hidden;
-      }
-      li {
-        float: left;
-      }
-      li a {
-        display: block;
-        padding: 8px;
-        background-color: #dddddd;
-      }
-    </style>
+	<link href="css/general.css" rel="stylesheet">
+	<link href="css/courses.css" rel="stylesheet">
+	
     <title>Courses</title>
   </head>
   <body>
-    <!--
-        #schedule
-        #prices
-        #salsa
-        #swing
-        #hiphop
-        #charleston
-        #irish dance
-    -->
     <header>
-      <nav>
-        <img src="images/logo.svg" alt="logo" height="150" width="150" />
-        <ul>
-          <li><a href="home.html">Home</a></li>
-          <li><a href="about_us.html">About Us</a></li>
-          <li><a href="courses.html">Courses</a></li>
-          <li><a href="reviews.html">Reviews</a></li>
-          <li><a href="news.html">News</a></li>
-          <li><a href="faq.html">FAQs</a></li>
-          <li><a href="contact.html">Contact</a></li>
-        </ul>
-      </nav>
+      <div class="header">
+        <div>
+          <img src="images/logo.svg" alt="logo" height="150" width="150" />
+        </div>
+        <nav>
+          <ul>
+            <li><a href="home.html">Home</a> </li>
+            <li><div class="vl"></div></li> 
+            <li><a href="about_us.html">About Us</a></li>
+            <li><div class="vl"></div></li> 
+            <li><a href="courses.html">Courses</a></li>
+            <li><div class="vl"></div></li> 
+            <li><a href="reviews.html">Reviews</a></li>
+            <li><div class="vl"></div></li> 
+            <li><a href="news.html">News</a></li>
+            <li><div class="vl"></div></li> 
+            <li><a href="faq.html">FAQs</a></li>
+            <li><div class="vl"></div></li> 
+            <li><a href="contact.html">Contact</a></li>
+          </ul>
+        </nav>
+      </div>
     </header>
+	
+  <body>
+      <div class="content">
     <!-- title -->
     <h1>Courses</h1>
 
     <!-- salsa -->
+		<div class="sub_content">
+		<div class="image">
     <img src="images/teachers.png" alt="" />
     <p><a href="salsa.html">Salsa</a></p>
+	</div>
+	<div class="text">
     <p>
       The beginner salsa dance enthusiast's journey begins with this five-week
       session. No prior dance training is required or anticipated. Both male and
@@ -59,10 +54,16 @@
       manners, timing, fundamental footwork, full and half turns, "cross body
       lead," and practical salsa dancing patterns in these dance sessions.
     </p>
+	</div>
+	</div>
 
     <!-- irish dance -->
+			<div class="sub_content">
+		<div class="image">
     <img src="images/teachers.png" alt="" />
     <p><a href="irish_dance.html">Irish Dance</a></p>
+		</div>
+	<div class="text">
     <p>
       This class is designed exclusively for our youngest dancers. It is best
       suited to keep the interest of our little dancers because it is only a
@@ -72,10 +73,16 @@
       enjoy making new friends while learning coordination, balance,
       collaboration, and musicality in this class.
     </p>
-
+	</div>
+	</div>
+	
     <!-- Hip Hop -->
+			<div class="sub_content">
+		<div class="image">
     <img src="images/teachers.png" alt="" />
     <p><a href="hiphop.html">Hip Hop</a></p>
+		</div>
+	<div class="text">
     <p>
       Hip hop has a LARGE amount of performance. In addition to seeing dancers
       learn and perform the choreography, we also want to watch them perform for
@@ -83,10 +90,16 @@
       unless otherwise instructed, we anticipate seeing dancers giving it their
       all.
     </p>
-
+	</div>
+	</div>
+	
     <!-- Charleston -->
+			<div class="sub_content">
+		<div class="image">
     <img src="images/teachers.png" alt="" />
     <p><a href="charleston.html">Charleston</a></p>
+		</div>
+	<div class="text">
     <p>
       Our vivacious and energizing Charleston Dance Classes will expose you to
       the hot jazz sounds of the Charleston and have you moving with speed,
@@ -94,10 +107,16 @@
       the more experienced Swing or Jive Dancer. For you to suit around your
       schedule, we provide both one-time workshops and four-week short courses.
     </p>
-
+	</div>
+	</div>
+	
     <!-- Swing -->
+			<div class="sub_content">
+		<div class="image">
     <img src="images/teachers.png" alt="" />
     <p><a href="swing.html">Swing</a></p>
+		</div>
+	<div class="text">
     <p>
       In addition to being well-liked, swing dancing is also one of the easiest
       and most adaptable dances to master. You will learn both West Coast Swing,
@@ -105,27 +124,42 @@
       pop, and R&B, and East Coast Swing (also known as Jitterbug), danced to
       Big Band, Swing, and Rock n' Roll.
     </p>
-
+		</div>
+	</div>
+</div>
     <!-- footer -->
 
-    <footer>
-      <form style="display: inline" action="schedule.html" method="get">
-        <button>Schedule</button>
-      </form>
-      <form style="display: inline" action="courses.html" method="get">
-        <button>Courses</button>
-      </form>
-      <form style="display: inline" action="about_us.html" method="get">
-        <button>About Us</button>
-      </form>
+    <div class="footer">
+      <footer>
 
-      <img src="images/tw.png" alt="twitter" />
-      <img src="images/ig.png" alt="instagram" />
-      <img src="images/fb.png" alt="facebook" />
-      <ul>
-        <li><a href="imprint.html">Imprint</a></li>
-        <li><a href="credits.html">Credit</a></li>
-      </ul>
-    </footer>
+          
+          <form action="schedule.html" method="get">
+            <div id="formbox">
+              <button>Schedule</button>
+            </div>
+          </form>
+          <form action="courses.html" method="get">
+            <div id="formbox">
+              <button>Courses</button>
+            </div>
+          </form>
+          <form action="about_us.html" method="get">
+            <div id="formbox">
+              <button>About Us</button>
+            </div>
+          </form>
+
+        <div class="icons">
+          <img src="images/tw.png" alt="twitter" />
+          <img src="images/ig.png" alt="instagram" />
+          <img src="images/fb.png" alt="facebook" />
+          <ul>
+            <li><a href="imprint.html">Imprint</a></li>
+            <li><div class="vl"></div></li> 
+            <li><a href="credits.html">Credit</a></li>
+          </ul>
+        </div>
+      </footer>
+    </div>
   </body>
 </html>

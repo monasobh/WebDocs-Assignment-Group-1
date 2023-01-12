@@ -4,117 +4,134 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <style>
-      ul {
-        list-style-type: none;
-        margin: 0;
-        padding: 0;
-        overflow: hidden;
-      }
-      li {
-        float: left;
-      }
-      li a {
-        display: block;
-        padding: 8px;
-        background-color: #dddddd;
-      }
-    </style>
+    <link href="css/general.css" rel="stylesheet" />
+    <link href="css/review.css" rel="stylesheet" />
+
     <title>Reviews</title>
   </head>
   <body>
     <header>
-      <img src="images/logo.svg" alt="logo" height="150" width="150" />
-      <nav>
-        <ul>
-          <li><a href="home.html">Home</a></li>
-          <li><a href="about_us.html">About Us</a></li>
-          <li><a href="courses.html">Courses</a></li>
-          <li><a href="reviews.html">Reviews</a></li>
-          <li><a href="news.html">News</a></li>
-          <li><a href="faq.html">FAQs</a></li>
-          <li><a href="contact.html">Contact</a></li>
-        </ul>
-      </nav>
+      <div class="header">
+        <div>
+          <a href="index.html">
+            <img src="images/logo.svg" alt="logo" height="150" width="150" />
+          </a>
+        </div>
+        <nav>
+          <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><div class="vl"></div></li>
+            <li><a href="about_us.html">About Us</a></li>
+            <li><div class="vl"></div></li>
+            <li><a href="courses.html">Courses</a></li>
+            <li><div class="vl"></div></li>
+            <li><a href="reviews.html">Reviews</a></li>
+            <li><div class="vl"></div></li>
+            <li><a href="news.html">News</a></li>
+            <li><div class="vl"></div></li>
+            <li><a href="faq.html">FAQs</a></li>
+            <li><div class="vl"></div></li>
+            <li><a href="contact.html">Contact</a></li>
+          </ul>
+        </nav>
+      </div>
     </header>
-
     <!-- heading -->
     <h1>Reviews</h1>
-
-    <!-- 1st review -->
-    <h4>Michaela Johnson</h4>
-    <blockquote>
-      I had a terrific experience, and the instructor was really kind,
-      enjoyable, and inspiring. Very tidy studio that is unquestionably safe for
-      video.
-    </blockquote>
-    ⭐⭐⭐⭐⭐
-
-    <!-- 2nd review -->
-    <h4>Kevin Spacey</h4>
-    <blockquote>
-      I've been to a lot of dance studios, but this one has the friendliest
-      personnel, the most lovely and peaceful setting, and enormous windows that
-      let in a ton of lovely light! Would without a doubt suggest the classes!
-    </blockquote>
-    ⭐⭐⭐⭐⭐
-
-    <!-- 3rd review -->
-    <h4>Ben Stiller</h4>
-    <blockquote>
-      It's enjoyable to practice your dancing here without fear of criticism.
-      The teachers are outstanding!
-    </blockquote>
-    ⭐⭐⭐⭐⭐
-
-    <!-- 4th review -->
-    <h4>Tom Cruise</h4>
-    <blockquote>
-      Wow, this location has altered my life! Their private tutors and classes
-      are fantastic... offered me the knowledge and self-assurance to develop
-      into a great dancer.
-    </blockquote>
-    ⭐⭐⭐⭐⭐
-
-    <!-- 5th review -->
-    <h4>Nicolas Cage</h4>
-    <blockquote>
-      It's a great location for dancing instruction. Come for the socials and
-      dance the night away while fostering a sense of community. They offer
-      classes for all skill levels, from complete beginners to experts.
-    </blockquote>
-    ⭐⭐⭐⭐⭐
-
-    <!-- 6th review -->
-    <h4>Denzel Washington</h4>
-    <blockquote>
-      I had a fun while I was there for a dance party. There are so many amazing
-      people there that I will keep going and learn other dances. Additionally
-      friendly is the staff. I would strongly recommend going if you haven't
-      already.
-    </blockquote>
-    ⭐⭐⭐⭐⭐
-
+    <div class="content">
+      <!-- 1st review -->
+      <div class="review_card">
+        <h4>Michaela Johnson</h4>
+        <blockquote>
+          I had a terrific experience, and the instructor was really kind,
+          enjoyable, and inspiring. Very tidy studio that is unquestionably safe
+          for video.
+        </blockquote>
+        <div class="stars">⭐⭐⭐⭐⭐</div>
+      </div>
+      <!-- 2nd review -->
+      <div class="review_card">
+        <h4>Kevin Spacey</h4>
+        <blockquote>
+          I've been to a lot of dance studios, but this one has the friendliest
+          personnel, the most lovely and peaceful setting, and enormous windows
+          that let in a ton of lovely light! Would without a doubt suggest the
+          classes!
+        </blockquote>
+        <div class="stars">⭐⭐⭐⭐⭐</div>
+      </div>
+      <!-- 3rd review -->
+      <div class="review_card">
+        <h4>Ben Stiller</h4>
+        <blockquote>
+          It's enjoyable to practice your dancing here without fear of
+          criticism. The teachers are outstanding!
+        </blockquote>
+        <div class="stars">⭐⭐⭐⭐⭐</div>
+      </div>
+      <!-- 4th review -->
+      <div class="review_card">
+        <h4>Tom Cruise</h4>
+        <blockquote>
+          Wow, this location has altered my life! Their private tutors and
+          classes are fantastic... offered me the knowledge and self-assurance
+          to develop into a great dancer.
+        </blockquote>
+        <div class="stars">⭐⭐⭐⭐⭐</div>
+      </div>
+      <!-- 5th review -->
+      <div class="review_card">
+        <h4>Nicolas Cage</h4>
+        <blockquote>
+          It's a great location for dancing instruction. Come for the socials
+          and dance the night away while fostering a sense of community. They
+          offer classes for all skill levels, from complete beginners to
+          experts.
+        </blockquote>
+        <div class="stars">⭐⭐⭐⭐⭐</div>
+      </div>
+      <!-- 6th review -->
+      <div class="review_card">
+        <h4>Denzel Washington</h4>
+        <blockquote>
+          I had a fun while I was there for a dance party. There are so many
+          amazing people there that I will keep going and learn other dances.
+          Additionally friendly is the staff. I would strongly recommend going
+          if you haven't already.
+        </blockquote>
+        <div class="stars">⭐⭐⭐⭐⭐</div>
+      </div>
+    </div>
     <!-- footer -->
+    <div class="footer">
+      <footer>
+        <form action="schedule.html" method="get">
+          <div id="formbox">
+            <button>Schedule</button>
+          </div>
+        </form>
+        <form action="courses.html" method="get">
+          <div id="formbox">
+            <button>Courses</button>
+          </div>
+        </form>
+        <form action="about_us.html" method="get">
+          <div id="formbox">
+            <button>About Us</button>
+          </div>
+        </form>
 
-    <footer>
-      <form style="display: inline" action="schedule.html" method="get">
-        <button>Schedule</button>
-      </form>
-      <form style="display: inline" action="courses.html" method="get">
-        <button>Courses</button>
-      </form>
-      <form style="display: inline" action="about_us.html" method="get">
-        <button>About Us</button>
-      </form>
-
-      <img src="images/tw.png" alt="twitter" />
-      <img src="images/ig.png" alt="instagram" />
-      <img src="images/fb.png" alt="facebook" />
-      <ul>
-        <li><a href="imprint.html">Imprint</a></li>
-        <li><a href="credits.html">Credit</a></li>
-      </ul>
-    </footer>
+        <div class="icons">
+          <img src="images/tw.png" alt="twitter" />
+          <img src="images/ig.png" alt="instagram" />
+          <img src="images/fb.png" alt="facebook" />
+          <ul>
+            <li><a href="imprint.html">Imprint</a></li>
+            <li><div class="vl"></div></li>
+            <li><a href="credits.html">Credit</a></li>
+          </ul>
+        </div>
+      </footer>
+    </div>
   </body>
 </html>

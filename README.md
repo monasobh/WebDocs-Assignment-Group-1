@@ -4,13 +4,12 @@
 - [@monasobh](https://www.github.com/monasobh) (Mona Sobhani)
 
 ## Work distribution for us (Group 1) as developers
-- setup of initial page (Github pages) - Masoud
+- setup of initial page (Github pages) with HTML5 structure - Masoud
 - responsible for communication to Group 6 (developer) - Mona
-- HTML5 - Masoud
-- CSS - Andreas
+- CSS - Andreas, Mona
 - Visual Clarity - Mona
 - Adaptive page design - Mona
-- Evaluated our Code using an online validator and refactor - Andreas
+- Evaluated our Code using an online validator and refactor - Mona
 
 # Business Description
 

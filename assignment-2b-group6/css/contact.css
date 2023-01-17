@@ -95,10 +95,15 @@ margin: 0 10px;
   flex-direction: row;
 }
 
+
+
+
+
 @media only screen and (max-width: 1200px) {
   .content {
   flex-direction: column;
   align-items: center;
   padding: 40px;
   }
+
 }

@@ -150,6 +150,22 @@ button {
   button {
     width: 100px;
   }
+  header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+  }
+  
+  nav {
+      text-align: center;
+  }
+  
 }
 
 .icons {
